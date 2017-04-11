@@ -30,7 +30,7 @@
             '@ng-bootstrap/ng-bootstrap': 'npm:@ng-bootstrap/ng-bootstrap/bundles/ng-bootstrap.js',
             'moment': 'npm:moment/moment.js',
             'ngx-bootstrap/ng2-bootstrap': 'node_modules/ngx-bootstrap/bundles/ngx-bootstrap.umd.js',
-
+            'underscore': 'npm:underscore/underscore.js'
         },
         // packages tells the System loader how to load when no filename and/or no extension
         packages: {
